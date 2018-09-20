@@ -1,5 +1,8 @@
 _repo: Juoppohullu-Elamantarina_52675
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alkio, Santeri
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Santeri_Alkio
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52675#Juoppohullu-Elamantarina
 gutenberg_issued: '2016-07-30'
 gutenberg_type: Text
 identifiers:
